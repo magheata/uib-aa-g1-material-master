@@ -1,4 +1,4 @@
-name: datascience
+name: ds-uib
 channels:
   - defaults
 dependencies:
