@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# uib-aa-g1-material-master
-=======
 # Aprendizaje Automático
 
 Material para las prácticas asíncronas.
@@ -42,4 +39,3 @@ python -m ipykernel install --user --name ds-uib --display-name "Py37 (ds-uib)"
 
 
 
->>>>>>> 97a9eee063099b16c619906730a0158cd428ce22
