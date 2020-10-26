@@ -35,7 +35,3 @@ conda activate ds-uib
 # Hacer visible el entorno a jupyter
 python -m ipykernel install --user --name ds-uib --display-name "Py37 (ds-uib)"
 ```
-
-
-
-
